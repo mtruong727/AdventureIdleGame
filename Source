@@ -9,7 +9,7 @@ CSS
 #game.on
 {
 	background-size: 100% 100%;
-	imae-rendering: pixelated;
+	image-rendering: pixelated;
 }
 
 Settings
