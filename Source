@@ -5,5 +5,12 @@ Let's make a game!
 	created:12/14/2024
 	version:0.0
 
+CSS
+#game.on
+{
+	background-size: 100% 100%;
+	imae-rendering: pixelated;
+}
+
 Settings
 	background:https://file.garden/Z14ay7uwgmBSW3CE/AdventureIdleGame/HD-wallpaper-blurry-gradient-color-blend-abstract.jpg
