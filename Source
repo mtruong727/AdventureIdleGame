@@ -15,3 +15,13 @@ CSS
 Settings
 	background:https://file.garden/Z14ay7uwgmBSW3CE/AdventureIdleGame/HD-wallpaper-blurry-gradient-color-blend-abstract.jpg
 	stylesheet:stuff/bigBlue.css
+
+Buildings
+	*miningCave|miningCaves
+	name:Mining Cave|Mining Caves
+	desc:A cave that gathers ores.
+
+Resources
+	*coin|coins
+	desc:Collect as many of these as possible!
+	
