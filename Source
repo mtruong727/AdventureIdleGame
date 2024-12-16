@@ -22,13 +22,16 @@ Buildings
 	desc:A cave that gathers ores.
 	on tick:yield 1 coin
 	cost:100 coins
+	icon:https://file.garden/Z14ay7uwgmBSW3CE/AdventureIdleGame/Cave_Icon.png
 
 Resources
 	*coin|coins
 	desc:Collect as many of these as possible!
+	icon:https://file.garden/Z14ay7uwgmBSW3CE/AdventureIdleGame/game_gold_coin.png
 
 Buttons
 	*coinButton
 	on click:yield 1 coin
 	class:bigButton hasFlares
+	icon:https://file.garden/Z14ay7uwgmBSW3CE/AdventureIdleGame/gold%20coin.jpg
 	
