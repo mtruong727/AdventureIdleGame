@@ -55,3 +55,4 @@ Shinies
 		frequency:5
 		movement:growShrink pulse:1 bobVertical:0.25 bobHorizontal:0.25 anywhere
 		class:hasFlares
+		icon:https://file.garden/Z14ay7uwgmBSW3CE/AdventureIdleGame/Yellow_Star_small.png
