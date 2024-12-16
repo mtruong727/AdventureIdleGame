@@ -34,7 +34,7 @@ Buildings
 	desc:A cave that gathers ores.
 	on tick:yield 1 coin
 	cost:100 coins
-	icon:https://file.garden/Z14ay7uwgmBSW3CE/AdventureIdleGame/Cave_Icon.png
+	icon:https://file.garden/Z14ay7uwgmBSW3CE/AdventureIdleGame/Cave_Icon_small.png
 	icon class:buildingIconSize
 
 Resources
