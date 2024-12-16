@@ -54,3 +54,8 @@ Upgrades
 	desc:Start collecting this in the mining caves to get earning increase
 	passive:multiply yield of miningCaves by 2
 	cost:600 coins
+
+Achievements
+	*coinNovice
+	desc:You earned 100 coins! Novice earner!
+	req:100 coins:earned
