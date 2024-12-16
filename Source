@@ -40,7 +40,7 @@ Buildings
 Resources
 	*coin|coins
 	desc:Collect as many of these as possible!
-	icon:https://file.garden/Z14ay7uwgmBSW3CE/AdventureIdleGame/game_gold_coin.png
+	icon:https://file.garden/Z14ay7uwgmBSW3CE/AdventureIdleGame/game_gold_coin_small.png
 	icon class:resourceIconSize
 
 Buttons
