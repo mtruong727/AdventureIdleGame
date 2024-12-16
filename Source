@@ -53,5 +53,5 @@ Shinies
 		name:lucky coin
 		on click:yield (random(coins:ps*120,coins:ps*300))
 		frequency:5
-		movement:growShrink pulse:1 bobVertival:0.25 bobHorizontal:0.25 anywhere
+		movement:growShrink pulse:1 bobVertical:0.25 bobHorizontal:0.25 anywhere
 		class:hasFlares
