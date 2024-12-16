@@ -12,6 +12,18 @@ CSS
 	image-rendering: pixelated;
 }
 
+.buildingIconSize
+{
+	height:64px;
+	width:64px;
+}
+
+.resourceIconSize
+{
+	height:48px;
+	width:48px;
+}
+
 Settings
 	background:https://file.garden/Z14ay7uwgmBSW3CE/AdventureIdleGame/HD-wallpaper-blurry-gradient-color-blend-abstract.jpg
 	stylesheet:stuff/bigBlue.css
@@ -23,15 +35,17 @@ Buildings
 	on tick:yield 1 coin
 	cost:100 coins
 	icon:https://file.garden/Z14ay7uwgmBSW3CE/AdventureIdleGame/Cave_Icon.png
+	icon class:buildingIconSize
 
 Resources
 	*coin|coins
 	desc:Collect as many of these as possible!
 	icon:https://file.garden/Z14ay7uwgmBSW3CE/AdventureIdleGame/game_gold_coin.png
+	icon class:resourceIconSize
 
 Buttons
 	*coinButton
 	on click:yield 1 coin
 	class:bigButton hasFlares
-	icon:https://file.garden/Z14ay7uwgmBSW3CE/AdventureIdleGame/gold%20coin.jpg
+	icon:https://file.garden/Z14ay7uwgmBSW3CE/AdventureIdleGame/game_gold_coin.png
 	
