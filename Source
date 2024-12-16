@@ -49,3 +49,8 @@ Buttons
 	class:bigButton hasFlares
 	icon:https://file.garden/Z14ay7uwgmBSW3CE/AdventureIdleGame/game_gold_coin.png
 	
+Upgrades
+	*copperOre
+	desc:Start collecting this in the mining caves to get earning increase
+	passive:multiply yield of miningCaves by 2
+	cost:600 coins
