@@ -26,4 +26,9 @@ Buildings
 Resources
 	*coin|coins
 	desc:Collect as many of these as possible!
+
+Buttons
+	*coinButton
+	on click:yield 1 coin
+	class:bigButton hasFlares
 	
