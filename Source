@@ -50,7 +50,6 @@ Achievements
 
 Shinies
 	*luckyCoin
-		name:lucky coin
 		on click:yield (random(coins:ps*120,coins:ps*300)) coins
 		frequency:5
 		movement:growShrink pulse:1 bobVertical:0.25 bobHorizontal:0.25 anywhere
