@@ -14,8 +14,8 @@ CSS
 
 .buildingIconSize
 {
-	height:64px;
-	width:64px;
+	height:48px;
+	width:48px;
 }
 
 .resourceIconSize
