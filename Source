@@ -20,6 +20,8 @@ Buildings
 	*miningCave|miningCaves
 	name:Mining Cave|Mining Caves
 	desc:A cave that gathers ores.
+	on tick:yield 1 coin
+	cost:100 coins
 
 Resources
 	*coin|coins
