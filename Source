@@ -24,6 +24,13 @@ Buildings
 		cost:100 coins
 		icon:https://file.garden/Z14ay7uwgmBSW3CE/AdventureIdleGame/Cave_Icon_small.png
 
+	*smeltingRoom|smeltingRooms
+		name:Smelting Room|Smelting Rooms
+		desc:A facility that melts the gathered ores.
+		on tick:yield 1 coin
+		cost:400 coins
+		
+
 
 Resources
 	*coin|coins
