@@ -26,9 +26,15 @@ Buildings
 
 	*smeltingRoom|smeltingRooms
 		name:Smelting Room|Smelting Rooms
-		desc:A facility that melts the gathered ores.
+		desc:A facility that melts the gathered ores into bars.
 		on tick:yield 1 coin
 		cost:400 coins
+
+	*blacksmith|blacksmiths
+		name:Blacksmith|Blacksmiths
+		desc:Hired a blacksmith to forge weapons using the melted bars as material
+		on tick:yield 2 coin
+		cost:1600 coins
 		
 
 
@@ -49,6 +55,11 @@ Upgrades
 		desc:Start collecting this in the mining caves to get earning increase
 		passive:multiply yield of miningCaves by 2
 		cost:600 coins
+
+	*goldBar
+		desc:Produce gold bars while melting ore to earn more gold
+		passive:multiply yield og smeltingRooms by 2
+		cost:2000 coins
 
 Achievements
 	*coinNovice
