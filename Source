@@ -58,7 +58,7 @@ Upgrades
 
 	*goldBar
 		desc:Produce gold bars while melting ore to earn more gold
-		passive:multiply yield og smeltingRooms by 2
+		passive:multiply yield of smeltingRooms by 2
 		cost:2000 coins
 
 Achievements
